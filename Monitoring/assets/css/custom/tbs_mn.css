@@ -1,0 +1,25 @@
+/*___________ Main Elements __________________*/
+
+body
+{
+    background: #f4f4f4;
+}
+
+/*___________ Banner Elements ________________*/
+
+
+.nm_banner-top
+{
+    background-color: #419641;
+    color: #fff;
+}
+
+.active
+{
+    background-color: #ffffff;
+}
+
+
+/*___________ Content Elements _______________*/
+
+/*___________ Images Elements ________________*/
